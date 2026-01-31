@@ -1,3 +1,4 @@
+
 # **# Food Delivery Data Analysis using Python**
 
 This project performs end-to-end data integration and analysis on a food delivery dataset. Data from multiple sources (CSV, JSON, SQL) is combined, cleaned, and analyzed to extract business insights such as revenue trends, user behavior, cuisine performance, and membership impact.
@@ -70,8 +71,5 @@ SQL & Pandas
 ------------------------------
 **Outcome**
 Built a business-ready dataset and performed analytics to simulate real-world data engineering and decision-making workflows.
-
-
-
 
 
